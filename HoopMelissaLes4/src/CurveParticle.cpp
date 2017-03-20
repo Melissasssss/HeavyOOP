@@ -1,7 +1,7 @@
 #include "CurveParticle.h"
 
 CurveParticle::CurveParticle() {
-	curve = ofVec2f(ofRandom(-1, 5), ofRandom(-5, 5));
+	curve = ofVec2f(ofRandom(-1, 3), ofRandom(-2, 2));
 
 }
 
