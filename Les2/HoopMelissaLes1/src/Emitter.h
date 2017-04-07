@@ -10,7 +10,7 @@ public:
 	void Update();
 	void Draw();
 	Particle* part1[MAXPARTICLES];
-
+	
 	void setRandomColor(Particle* particle);
 };
 
